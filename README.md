@@ -5,7 +5,7 @@ Purpose of this project:
 2, Use a neural network which is initially trained by using the data in a trained lookup-table and then train a robot based on this neural network  
 
 The architecture of the neural network:
-![](NeuralNet_architecture.png)
+![NeuralNet_architecture](NeuralNet_architecture.png)
 
 
 
